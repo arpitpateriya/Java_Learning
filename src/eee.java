@@ -1,4 +1,4 @@
-public class ee {
+public class eee  {
     public static void main(String[] args) {
         int rows = 4;
         int number = 1;

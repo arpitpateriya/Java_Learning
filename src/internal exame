@@ -1,0 +1,20 @@
+
+import  java.util.Scanner;
+public class Simpleinterest {
+    public static void main(String args[]){
+        Scanner scanner=new Scanner(System.in);
+        System.out.println("rate" );
+
+        int r =scanner.nextInt();
+        System.out.println("priciple amtt" );
+        int p =scanner.nextInt();
+        System.out.println("time" );
+        int n=scanner.nextInt();
+        //operation
+        double simple_intrest=(p*r*n)/100;
+
+
+        // result
+        System.out.println("simple intrest"+simple_intrest);
+
+    }

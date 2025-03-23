@@ -13,10 +13,7 @@ class childs extends parent{
         System.out.println(childs.b);
     }
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> ab67380feae8361d0cf36e3bf73a3b4d727a78a0
 public class property {
     public  static void main(String args [])
     {
@@ -24,10 +21,5 @@ public class property {
         c.f1();
         c.f2();
 
-
-<<<<<<< HEAD
     }
 }
-=======
-    }}
->>>>>>> ab67380feae8361d0cf36e3bf73a3b4d727a78a0

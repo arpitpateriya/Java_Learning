@@ -35,7 +35,9 @@ class Employee {
  class Manager  extends Employee{
     String Department;
 
-    public Manager(String name , int empid ,double Salary,String Deparrtment);
+    public Manager(String name , int empid ,double Salary, String Deparrtment) {
+
+    }
 }
 
 

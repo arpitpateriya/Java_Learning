@@ -14,7 +14,5 @@ public class array2 {
                 System.out.println(number + " is odd");
             }
         }
-
-       
     }
 }

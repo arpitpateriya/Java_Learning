@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 import java.lang.String;
-=======
->>>>>>> ab67380feae8361d0cf36e3bf73a3b4d727a78a0
 class mobile{
     String Brand;
     String name;
